@@ -1,0 +1,7 @@
+{
+  "name": "olmedo",
+  "version": "1.0.0",
+  "bin": {
+    "olmedo": "index.js"
+  }
+}
