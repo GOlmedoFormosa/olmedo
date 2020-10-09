@@ -5,6 +5,7 @@
     "olmedo": "index.js"
   },
   "dependencies": {
+    "chalk": "^4.1.0",
     "clear-any-console": "^1.16.2"
   },
   "keywords": [
