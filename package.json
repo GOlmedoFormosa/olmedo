@@ -11,5 +11,11 @@
     "gustavo adolfo olmedo",
     "olmedo",
     "gus"
-  ]
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Gustavo Adolfo Olmedo",
+    "email": "gustavo.olmedo.formosa@gmail.com"
+  }
 }
